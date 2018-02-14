@@ -1,8 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: blue;
-    background-image: http://s1.storage.akamai.coub.com/get/b97/p/coub/simple/cw_timeline_pic/abf7b291cff/815e10c1697ebc7750cb0/med_1515387176_image.jpg;
+    background-color: pink;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
