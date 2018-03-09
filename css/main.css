@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    color: #84aff4;
+    color: #d5d5d5;
     background-size:1440px 1000px;
     background-image: url("https://i.imgur.com/lnVWsE4.jpg");
     
@@ -16,10 +16,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-a {
-    text-decoration: none;
-    color: #e5e5e5;
-}
+
 a:hover {
     text-decoration: underline;
 }
@@ -32,7 +29,6 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #d5d5d5;
-    background-color: white;
 }
 
     
