@@ -31,7 +31,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #84aff4;
+    color: #d5d5d5;
     background-color: white;
 }
 
@@ -48,7 +48,7 @@ ul.posts {
 }
 
 ul.posts li {
-    list-style: none;
+    list-style: none;
 }
 
 h5 {
