@@ -23,7 +23,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    color: white;
+    color: #ffffff;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
@@ -33,8 +33,9 @@ p {
 }
 
     .button {
-    background-color: #4CAF50; /* Green */
+    background-color: #e2e2e2; /* Green */
     border: none;
+    border-radius: 8px;
     color: #e2e2e2;
     padding: 15px 32px;
     text-align: center;
