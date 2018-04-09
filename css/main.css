@@ -42,7 +42,7 @@ p {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    opacity: 0.5;
+    background-opacity: 0.6;
 }
 
 {
