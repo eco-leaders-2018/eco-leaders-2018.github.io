@@ -36,7 +36,16 @@ p {
     color: #d5d5d5;
 }
 
-    
+    .button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: #e2e2e2;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
 
 footer {
     border-top: 1px solid #d5d5d5;
