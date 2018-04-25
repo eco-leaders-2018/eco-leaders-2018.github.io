@@ -83,3 +83,7 @@ coinhive-miner{
     color: #ff0000
     }
 
+    .miner {
+    font-size 1.2em;
+        color: #000000;
+    }
